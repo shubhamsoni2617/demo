@@ -1,0 +1,24 @@
+// .highcharts-legend-item path {
+// 	display: none;
+// }
+
+.highcharts-point-select {
+	fill: #b0b0b0;
+}
+
+.highcharts-data-label span {
+	text-decoration: none !important;
+	color: #fff !important;
+	fill: #fff !important;
+	text-transform: uppercase;
+}
+.highcharts-data-label,
+.highcharts-data-label text {
+	color: #fff !important;
+	fill: #fff !important;
+	text-transform: uppercase;
+	text-decoration: none !important;
+	tspan {
+		stroke-width: 0 !important;
+	}
+}
